@@ -1,0 +1,360 @@
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/appsettings.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.staticwebassets.runtime.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.staticwebassets.endpoints.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.deps.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.runtimeconfig.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.runtimeconfig.dev.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.pdb
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Azure.Core.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Azure.Identity.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/ClosedXML.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/DocumentFormat.OpenXml.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/EPPlus.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/EPPlus.Interfaces.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/EPPlus.System.Drawing.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/ExcelNumberFormat.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/IdentityModel.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Irony.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.Data.SqlClient.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.Identity.Client.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.SqlServer.Server.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.Win32.SystemEvents.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/MySqlConnector.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/QRCoder.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/SixLabors.Fonts.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/SkiaSharp.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.ClientModel.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Drawing.Common.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.IO.Packaging.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Memory.Data.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Runtime.Caching.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Security.Permissions.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Windows.Extensions.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Xceed.Document.NET.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Xceed.Drawing.NET.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Xceed.PDF.NET.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Xceed.Words.NET.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/XLParser.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.csproj.AssemblyReference.cache
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/HotReload/Microsoft.NET.Sdk.BlazorWeb.HotReload.lib.module.js
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/HotReload/Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.js
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/HotReload/Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.Config.js
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/HotReload/browser-tools-key.public.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/HotReload/browser-tools-key.private.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.AssemblyInfoInputs.cache
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.AssemblyInfo.cs
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.csproj.CoreCompileInputs.cache
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.MvcApplicationPartsAssemblyInfo.cs
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.MvcApplicationPartsAssemblyInfo.cache
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.RazorAssemblyInfo.cache
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.RazorAssemblyInfo.cs
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/jsmodules/jsmodules.build.manifest.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/scopedcss/scopedcss.cache
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/scopedcss/bundle/LEAN-SUPPLY-API.styles.css
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/scopedcss/projectbundle/LEAN-SUPPLY-API.bundle.scp.css
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/gfuwwe027d-{0}-7fgkmo3opj-7fgkmo3opj.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/ayfxijfej0-{0}-2nz04m4su4-2nz04m4su4.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/292z2ocpgt-{0}-b9sayid5wm-b9sayid5wm.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/gkaaq6abmw-{0}-61n19gt1b8-61n19gt1b8.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/lnyvhvbx1o-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/okz8sg97xe-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/7ltdr2ulc1-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/uj2jpl45fg-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/a2jbdr13dg-{0}-aexeepp0ev-aexeepp0ev.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/22ovvd9x2k-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/9ahpuzh05z-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/e8gtd62kjk-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/2v9bulvo2u-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/4qd4g3hg3p-{0}-ub07r2b239-ub07r2b239.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/o8abmrq14s-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/4ocih8wccp-{0}-b7pk76d08c-b7pk76d08c.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/gatjhjfbqi-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/lt4esfalzh-{0}-rzd6atqjts-rzd6atqjts.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/pyykg8xhn7-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/de3x0ya9ik-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/m4jsxhc7fr-{0}-jd9uben2k1-jd9uben2k1.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/jyf0byq9v6-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/e1susc7qoy-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/uxa79emdxm-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/52mo3fkrvl-{0}-c2oey78nd0-c2oey78nd0.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/0pz84lw7ff-{0}-tdbxkamptv-tdbxkamptv.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/9qkkdrpyp0-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/xb3omoz66g-{0}-06098lyss8-06098lyss8.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/f58gi689j3-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/m0fiwysj57-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/7bxt41te10-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/0uim048h9l-{0}-46ein0sx1k-46ein0sx1k.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/gc07lxju2w-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/jt5ic6hmzc-{0}-37tfw0ft22-37tfw0ft22.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/914qr6lwb5-{0}-hrwsygsryq-hrwsygsryq.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/ui2erit0ft-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/r74eybs1u9-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/4ocrj963ml-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/ilhxkzggou-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/n0nidqb6c0-{0}-493y06b0oq-493y06b0oq.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/cfoy2o0jce-{0}-iovd86k7lj-iovd86k7lj.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/m00veitfuc-{0}-vr1egmr9el-vr1egmr9el.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/8pa4oxfw6j-{0}-kbrnm935zg-kbrnm935zg.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/940qacrhsz-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/ycxxvye5sy-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/7vdtarifb7-{0}-notf2xhcfb-notf2xhcfb.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/1awjvjkk8v-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/u3xoe42wnr-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/h70vxj0cxu-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/g85hy71q11-{0}-47otxtyo56-47otxtyo56.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/tltuekogg3-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/dp9e2d4tnf-{0}-356vix0kms-356vix0kms.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/aa7vwn8em0-{0}-83jwlth58m-83jwlth58m.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/v88wxtq8sb-{0}-mrlpezrjn3-mrlpezrjn3.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/lk2as872nd-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/fdr0s8x5w4-{0}-ag7o75518u-ag7o75518u.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/984ngxnwgi-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/fvj0x1uxqn-{0}-0i3buxo5is-0i3buxo5is.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/0eje7m2y9z-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/errqotrno7-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/f2rvolisdi-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/2y0uis6ecy-{0}-muycvpuwrr-muycvpuwrr.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/tbga2wv4bw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/2y8rakarnk-{0}-mlv21k5csn-mlv21k5csn.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/xkp5vzm59x-{0}-u8ln8efqmb-u8ln8efqmb.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/6praidheus-{0}-hmcvac2du2-hmcvac2du2.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/uoehawaumg-{0}-smnpbcsdif-smnpbcsdif.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/w0whk44wu0-{0}-smnpbcsdif-smnpbcsdif.gz
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/staticwebassets.build.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/staticwebassets.development.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/swae.build.ex.cache
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUP.050C9D4D.Up2Date
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/refint/LEAN-SUPPLY-API.dll
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.pdb
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.genruntimeconfig.cache
+/Users/vladimir/Documents/07 WEB-DEVELOPER/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/ref/LEAN-SUPPLY-API.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/appsettings.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.staticwebassets.endpoints.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.staticwebassets.runtime.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.deps.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.runtimeconfig.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.runtimeconfig.dev.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/LEAN-SUPPLY-API.pdb
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Azure.Core.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Azure.Identity.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/ClosedXML.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/DocumentFormat.OpenXml.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/EPPlus.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/EPPlus.Interfaces.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/EPPlus.System.Drawing.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/ExcelNumberFormat.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/IdentityModel.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Irony.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.Bcl.AsyncInterfaces.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.Data.SqlClient.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.Identity.Client.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IdentityModel.Logging.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IdentityModel.Tokens.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.IO.RecyclableMemoryStream.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.OpenApi.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.SqlServer.Server.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Microsoft.Win32.SystemEvents.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/MySqlConnector.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Newtonsoft.Json.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Pomelo.EntityFrameworkCore.MySql.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/QRCoder.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/SixLabors.Fonts.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/SkiaSharp.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.ClientModel.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Configuration.ConfigurationManager.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Drawing.Common.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.IO.Packaging.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Memory.Data.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Runtime.Caching.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Security.Permissions.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/System.Windows.Extensions.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Xceed.Document.NET.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Xceed.Drawing.NET.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Xceed.PDF.NET.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/Xceed.Words.NET.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/XLParser.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/bin/Debug/net10.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.csproj.AssemblyReference.cache
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/HotReload/Microsoft.NET.Sdk.BlazorWeb.HotReload.lib.module.js
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/HotReload/Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.js
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/HotReload/Microsoft.NET.Sdk.BlazorWeb.HotReload.BrowserTools.Config.js
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/HotReload/browser-tools-key.public.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/HotReload/browser-tools-key.private.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/rpswa.dswa.cache.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.AssemblyInfoInputs.cache
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.AssemblyInfo.cs
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.csproj.CoreCompileInputs.cache
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.MvcApplicationPartsAssemblyInfo.cs
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.MvcApplicationPartsAssemblyInfo.cache
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.RazorAssemblyInfo.cache
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.RazorAssemblyInfo.cs
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/rjimswa.dswa.cache.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/rjsmrazor.dswa.cache.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/rjsmcshtml.dswa.cache.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/jsmodules/jsmodules.build.manifest.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/scopedcss/scopedcss.cache
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/scopedcss/bundle/LEAN-SUPPLY-API.styles.css
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/scopedcss/projectbundle/LEAN-SUPPLY-API.bundle.scp.css
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/gfuwwe027d-{0}-7fgkmo3opj-7fgkmo3opj.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/ayfxijfej0-{0}-2nz04m4su4-2nz04m4su4.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/292z2ocpgt-{0}-b9sayid5wm-b9sayid5wm.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/gkaaq6abmw-{0}-61n19gt1b8-61n19gt1b8.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/lnyvhvbx1o-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/okz8sg97xe-{0}-bqjiyaj88i-bqjiyaj88i.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/7ltdr2ulc1-{0}-c2jlpeoesf-c2jlpeoesf.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/uj2jpl45fg-{0}-erw9l3u2r3-erw9l3u2r3.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/a2jbdr13dg-{0}-aexeepp0ev-aexeepp0ev.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/22ovvd9x2k-{0}-d7shbmvgxk-d7shbmvgxk.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/9ahpuzh05z-{0}-ausgxo2sd3-ausgxo2sd3.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/e8gtd62kjk-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/2v9bulvo2u-{0}-cosvhxvwiu-cosvhxvwiu.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/4qd4g3hg3p-{0}-ub07r2b239-ub07r2b239.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/o8abmrq14s-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/4ocih8wccp-{0}-b7pk76d08c-b7pk76d08c.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/gatjhjfbqi-{0}-fsbi9cje9m-fsbi9cje9m.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/lt4esfalzh-{0}-rzd6atqjts-rzd6atqjts.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/pyykg8xhn7-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/de3x0ya9ik-{0}-dxx9fxp4il-dxx9fxp4il.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/m4jsxhc7fr-{0}-jd9uben2k1-jd9uben2k1.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/jyf0byq9v6-{0}-khv3u5hwcm-khv3u5hwcm.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/e1susc7qoy-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/uxa79emdxm-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/52mo3fkrvl-{0}-c2oey78nd0-c2oey78nd0.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/0pz84lw7ff-{0}-tdbxkamptv-tdbxkamptv.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/9qkkdrpyp0-{0}-j5mq2jizvt-j5mq2jizvt.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/xb3omoz66g-{0}-06098lyss8-06098lyss8.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/f58gi689j3-{0}-nvvlpmu67g-nvvlpmu67g.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/m0fiwysj57-{0}-s35ty4nyc5-s35ty4nyc5.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/7bxt41te10-{0}-pj5nd1wqec-pj5nd1wqec.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/0uim048h9l-{0}-46ein0sx1k-46ein0sx1k.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/gc07lxju2w-{0}-v0zj4ognzu-v0zj4ognzu.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/jt5ic6hmzc-{0}-37tfw0ft22-37tfw0ft22.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/914qr6lwb5-{0}-hrwsygsryq-hrwsygsryq.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/ui2erit0ft-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/r74eybs1u9-{0}-ft3s53vfgj-ft3s53vfgj.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/4ocrj963ml-{0}-6cfz1n2cew-6cfz1n2cew.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/ilhxkzggou-{0}-6pdc2jztkx-6pdc2jztkx.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/n0nidqb6c0-{0}-493y06b0oq-493y06b0oq.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/cfoy2o0jce-{0}-iovd86k7lj-iovd86k7lj.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/m00veitfuc-{0}-vr1egmr9el-vr1egmr9el.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/8pa4oxfw6j-{0}-kbrnm935zg-kbrnm935zg.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/940qacrhsz-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/ycxxvye5sy-{0}-y7v9cxd14o-y7v9cxd14o.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/7vdtarifb7-{0}-notf2xhcfb-notf2xhcfb.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/1awjvjkk8v-{0}-h1s4sie4z3-h1s4sie4z3.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/u3xoe42wnr-{0}-63fj8s7r0e-63fj8s7r0e.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/h70vxj0cxu-{0}-0j3bgjxly4-0j3bgjxly4.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/g85hy71q11-{0}-47otxtyo56-47otxtyo56.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/tltuekogg3-{0}-4v8eqarkd7-4v8eqarkd7.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/dp9e2d4tnf-{0}-356vix0kms-356vix0kms.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/aa7vwn8em0-{0}-83jwlth58m-83jwlth58m.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/v88wxtq8sb-{0}-mrlpezrjn3-mrlpezrjn3.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/lk2as872nd-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/fdr0s8x5w4-{0}-ag7o75518u-ag7o75518u.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/984ngxnwgi-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/fvj0x1uxqn-{0}-0i3buxo5is-0i3buxo5is.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/0eje7m2y9z-{0}-o1o13a6vjx-o1o13a6vjx.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/errqotrno7-{0}-ttgo8qnofa-ttgo8qnofa.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/f2rvolisdi-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/2y0uis6ecy-{0}-muycvpuwrr-muycvpuwrr.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/tbga2wv4bw-{0}-87fc7y1x7t-87fc7y1x7t.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/2y8rakarnk-{0}-mlv21k5csn-mlv21k5csn.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/xkp5vzm59x-{0}-u8ln8efqmb-u8ln8efqmb.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/6praidheus-{0}-hmcvac2du2-hmcvac2du2.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/uoehawaumg-{0}-smnpbcsdif-smnpbcsdif.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/compressed/w0whk44wu0-{0}-smnpbcsdif-smnpbcsdif.gz
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/staticwebassets.build.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/staticwebassets.build.json.cache
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/staticwebassets.development.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/staticwebassets.build.endpoints.json
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/swae.build.ex.cache
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUP.050C9D4D.Up2Date
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/refint/LEAN-SUPPLY-API.dll
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.pdb
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/LEAN-SUPPLY-API.genruntimeconfig.cache
+/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/Debug/net10.0/ref/LEAN-SUPPLY-API.dll
