@@ -22,16 +22,17 @@ ARG configuration=Release
 RUN dotnet publish "LEAN-SUPPLY-API.csproj" -c $configuration -o /app/publish /p:UseAppHost=false
 
 # final stage
+# final stage
 FROM base AS final
 WORKDIR /app
 
-COPY --from=publish /app/publish .
+COPY --from=publish --chown=app:app /app/publish .
 
-# создаём папку для файлов и даём права
+# Создаём папку и выдаём права на всю директорию /app от имени root
 USER root
-RUN mkdir -p /app/Files && chown -R app:app /app/Files
+RUN mkdir -p /app/Files && chown -R app:app /app
 
-# возвращаем пользователя
+# Возвращаем непривилегированного пользователя
 USER app
 
 ENTRYPOINT ["dotnet", "LEAN-SUPPLY-API.dll"]
