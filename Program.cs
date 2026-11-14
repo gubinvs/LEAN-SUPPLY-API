@@ -59,6 +59,7 @@ builder.Services.AddSwaggerGen();
 builder.Services.Configure<RuTokenSettings>(builder.Configuration.GetSection("RuTokenSettings"));
 builder.Services.Configure<EmailSettings>(builder.Configuration.GetSection("EmailSettings"));
 builder.Services.Configure<CurrentServer>(builder.Configuration.GetSection("ServerAddresses"));
+builder.Services.Configure<ApplicationLinks>(builder.Configuration.GetSection("Application"));
 
 builder.Services.AddHttpClient<DaDataService>();
 builder.Services.AddScoped<SomeServiceUsingToken>();

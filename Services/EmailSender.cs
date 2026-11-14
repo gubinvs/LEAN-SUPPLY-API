@@ -1,7 +1,7 @@
 using System.Net;
 using System.Net.Mail;
+using System.Text;
 using Microsoft.Extensions.Options;
-
 
 namespace SUPPLY_API
 {
@@ -14,18 +14,24 @@ namespace SUPPLY_API
             _settings = options.Value;
         }
 
-        public bool SendEmail(string toEmail, string subject, string body)
+        public bool SendEmail(string toEmail, string subject, string body, bool isHtml = true)
         {
             try
             {
-                var smtpClient = new SmtpClient(_settings.SmtpServer)
+                using var smtpClient = new SmtpClient(_settings.SmtpServer)
                 {
                     Port = _settings.Port,
                     Credentials = new NetworkCredential(_settings.FromEmail, _settings.Password),
                     EnableSsl = true
                 };
 
-                var mailMessage = new MailMessage(_settings.FromEmail, toEmail, subject, body);
+                using var mailMessage = new MailMessage(_settings.FromEmail, toEmail, subject, body)
+                {
+                    IsBodyHtml = isHtml,
+                    BodyEncoding = Encoding.UTF8,
+                    SubjectEncoding = Encoding.UTF8
+                };
+
                 smtpClient.Send(mailMessage);
 
                 return true;
@@ -37,5 +43,5 @@ namespace SUPPLY_API
             }
         }
     }
-
 }
+
