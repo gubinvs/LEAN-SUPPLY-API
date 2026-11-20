@@ -59,10 +59,6 @@ namespace SUPPLY_API
             var user = _dbContext.CollaboratorSystem
                 .FirstOrDefault(p => p.EmailCollaborator == model.Email);
 
-            if (user != null)
-            {
-                return Ok(new { message = "Данный пользователь существует" });
-            }
 
             // 2. Формируем красивое HTML-тело письма
             string body = $@"
