@@ -107,11 +107,11 @@ namespace SUPPLY_API
 
                 await transaction.CommitAsync();
 
-                return Ok(new { message = "Закупка и её компоненты успешно сохранены." });
+                return Ok(new { message = "Спецификация и её компоненты успешно сохранены." });
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Ошибка при сохранении закупки");
+                _logger.LogError(ex, "Ошибка при сохранении спецификации");
                 await transaction.RollbackAsync();
                 return StatusCode(500, new { message = "Произошла ошибка при сохранении." });
             }
@@ -130,7 +130,7 @@ namespace SUPPLY_API
 
                 if (purchase == null)
                 {
-                    return NotFound(new { message = "Закупка не найдена." });
+                    return NotFound(new { message = "Спецификация не найдена." });
                 }
 
                 // Удаление компонентов закупки
@@ -151,11 +151,11 @@ namespace SUPPLY_API
                 await _db.SaveChangesAsync();
                 await transaction.CommitAsync();
 
-                return Ok(new { message = "Закупка и все связанные данные удалены." });
+                return Ok(new { message = "Спецификация и все связанные данные удалены." });
             }
             catch (Exception ex)
             {
-                _logger.LogError(ex, "Ошибка при удалении закупки");
+                _logger.LogError(ex, "Ошибка при удалении спецификации");
                 await transaction.RollbackAsync();
                 return StatusCode(500, new { message = "Произошла ошибка при удалении." });
             }
