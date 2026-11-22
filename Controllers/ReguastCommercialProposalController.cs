@@ -53,6 +53,7 @@ namespace SUPPLY_API
             string safeName = HttpUtility.HtmlEncode(model.Name);
             string safePhone = HttpUtility.HtmlEncode(model.Phone);
             string safeEmail = HttpUtility.HtmlEncode(model.Email);
+            string safeLending = HttpUtility.HtmlEncode(model.Lending);
 
             // Регистрируем нового пользователя
 
@@ -93,7 +94,7 @@ namespace SUPPLY_API
                                         <table width='100%' cellpadding='0' cellspacing='0' style='background-color: #f8fafc; border-radius: 8px; border: 1px solid #e2e8f0; margin-bottom: 24px;'>
                                             <tr>
                                                 <td style='padding: 16px;'>
-                                                    <p style='margin: 0 0 8px 0; color: #64748b; font-size: 13px; text-transform: uppercase; letter-spacing: 0.5px;'>Бренд / Производитель</p>
+                                                    <p style='margin: 0 0 8px 0; color: #64748b; font-size: 13px; text-transform: uppercase; letter-spacing: 0.5px;'>Лендинг = {safeLending}</p>
                                                     <p style='margin: 0; color: #0f172a; font-size: 18px; font-weight: 700;'>{safeName}</p>
                                                 </td>
                                             </tr>
