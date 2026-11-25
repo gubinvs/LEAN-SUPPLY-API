@@ -2799,19 +2799,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/vladimir/.nuget/packages/": {}
+    "C:\\Users\\Владимир\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/LEAN-SUPPLY-API.csproj",
+      "projectUniqueName": "C:\\Users\\Владимир\\Documents\\LEAN-SUPPLY\\LEAN-SUPPLY-API\\LEAN-SUPPLY-API.csproj",
       "projectName": "LEAN-SUPPLY-API",
-      "projectPath": "/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/LEAN-SUPPLY-API.csproj",
-      "packagesPath": "/Users/vladimir/.nuget/packages/",
-      "outputPath": "/Users/vladimir/LEAN_SUPPLY/LEAN-SUPPLY-API/obj/",
+      "projectPath": "C:\\Users\\Владимир\\Documents\\LEAN-SUPPLY\\LEAN-SUPPLY-API\\LEAN-SUPPLY-API.csproj",
+      "packagesPath": "C:\\Users\\Владимир\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Владимир\\Documents\\LEAN-SUPPLY\\LEAN-SUPPLY-API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/vladimir/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Владимир\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net10.0"
@@ -2836,7 +2836,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "11.0.100"
+      "SdkAnalysisLevel": "10.0.400"
     },
     "frameworks": {
       "net10.0": {
@@ -2919,7 +2919,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/11.0.100/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.404/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
@@ -3352,7 +3352,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "У пакета \"Azure.Identity\" 1.11.0 есть известная уязвимость https://github.com/advisories/GHSA-m5vv-6r4h-3vj9 (уровень серьезности: средний уровень)",
+      "message": "У пакета \"Azure.Identity\" 1.11.0 есть известная уязвимость https://github.com/advisories/GHSA-m5vv-6r4h-3vj9 (уровень серьезности: средний)",
       "libraryId": "Azure.Identity",
       "targetGraphs": [
         "net10.0"
@@ -3362,7 +3362,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "У пакета \"Microsoft.Identity.Client\" 4.60.1 есть известная уязвимость https://github.com/advisories/GHSA-m5vv-6r4h-3vj9 (уровень серьезности: средний уровень)",
+      "message": "У пакета \"Microsoft.Identity.Client\" 4.60.1 есть известная уязвимость https://github.com/advisories/GHSA-m5vv-6r4h-3vj9 (уровень серьезности: средний)",
       "libraryId": "Microsoft.Identity.Client",
       "targetGraphs": [
         "net10.0"
@@ -3372,7 +3372,7 @@
       "code": "NU1901",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "У пакета \"Microsoft.Identity.Client\" 4.60.1 есть известная уязвимость https://github.com/advisories/GHSA-x674-v45j-fwxw (уровень серьезности: низкий уровень)",
+      "message": "У пакета \"Microsoft.Identity.Client\" 4.60.1 есть известная уязвимость https://github.com/advisories/GHSA-x674-v45j-fwxw (уровень серьезности: низкий)",
       "libraryId": "Microsoft.Identity.Client",
       "targetGraphs": [
         "net10.0"
@@ -3382,7 +3382,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "У пакета \"Microsoft.IdentityModel.JsonWebTokens\" 7.0.3 есть известная уязвимость https://github.com/advisories/GHSA-59j7-ghrg-fj52 (уровень серьезности: средний уровень)",
+      "message": "У пакета \"Microsoft.IdentityModel.JsonWebTokens\" 7.0.3 есть известная уязвимость https://github.com/advisories/GHSA-59j7-ghrg-fj52 (уровень серьезности: средний)",
       "libraryId": "Microsoft.IdentityModel.JsonWebTokens",
       "targetGraphs": [
         "net10.0"
@@ -3392,7 +3392,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "У пакета \"MySqlConnector\" 2.3.5 есть известная уязвимость https://github.com/advisories/GHSA-473q-m89c-ghf8 (уровень серьезности: средний уровень)",
+      "message": "У пакета \"MySqlConnector\" 2.3.5 есть известная уязвимость https://github.com/advisories/GHSA-473q-m89c-ghf8 (уровень серьезности: средний)",
       "libraryId": "MySqlConnector",
       "targetGraphs": [
         "net10.0"
@@ -3402,7 +3402,7 @@
       "code": "NU1902",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "У пакета \"System.IdentityModel.Tokens.Jwt\" 7.0.3 есть известная уязвимость https://github.com/advisories/GHSA-59j7-ghrg-fj52 (уровень серьезности: средний уровень)",
+      "message": "У пакета \"System.IdentityModel.Tokens.Jwt\" 7.0.3 есть известная уязвимость https://github.com/advisories/GHSA-59j7-ghrg-fj52 (уровень серьезности: средний)",
       "libraryId": "System.IdentityModel.Tokens.Jwt",
       "targetGraphs": [
         "net10.0"
@@ -3412,7 +3412,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "У пакета \"System.IO.Packaging\" 6.0.0 есть известная уязвимость https://github.com/advisories/GHSA-f32c-w444-8ppv (уровень серьезности: высокий уровень)",
+      "message": "У пакета \"System.IO.Packaging\" 6.0.0 есть известная уязвимость https://github.com/advisories/GHSA-f32c-w444-8ppv (уровень серьезности: высокий)",
       "libraryId": "System.IO.Packaging",
       "targetGraphs": [
         "net10.0"
@@ -3422,7 +3422,7 @@
       "code": "NU1903",
       "level": "Warning",
       "warningLevel": 1,
-      "message": "У пакета \"System.IO.Packaging\" 6.0.0 есть известная уязвимость https://github.com/advisories/GHSA-qj66-m88j-hmgj (уровень серьезности: высокий уровень)",
+      "message": "У пакета \"System.IO.Packaging\" 6.0.0 есть известная уязвимость https://github.com/advisories/GHSA-qj66-m88j-hmgj (уровень серьезности: высокий)",
       "libraryId": "System.IO.Packaging",
       "targetGraphs": [
         "net10.0"
