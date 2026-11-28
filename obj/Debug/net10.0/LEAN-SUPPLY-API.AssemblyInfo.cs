@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LEAN-SUPPLY-API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b47b33e36a23c6d0f893dbe0913e6bc62af85cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a27070d0f7dd7e746da5b232e2161c078aa972f4")]
 [assembly: System.Reflection.AssemblyProductAttribute("LEAN-SUPPLY-API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LEAN-SUPPLY-API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
